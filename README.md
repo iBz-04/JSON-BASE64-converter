@@ -12,7 +12,7 @@ Because some older systems think that data consists of 7-bit chunks (bytes), whe
 
 ## How It Works
 
-he code first transforms the JSON object into a JSON-formatted string. 
+The code first transforms the JSON object into a JSON-formatted string. 
 This string is then encoded to bytes using UTF-8 encoding. Next, the byte-encoded JSON string is converted into a Base64 byte string.
 This Base64 byte string is decoded back into a regular string.
 
