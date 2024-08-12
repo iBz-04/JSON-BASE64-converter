@@ -22,7 +22,7 @@ This Base64 byte string is decoded back into a regular string.
 1. Clone the repository
 
 ```bash
-git clone https://github.com/iBz-04/JSON-BASE64-converte.git
+git clone https://github.com/iBz-04/JSON-BASE64-converter.git
 ```
 
 ## Feedback
